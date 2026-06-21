@@ -68,6 +68,7 @@
     <modules>
 
         <!-- We will add modules here one by one -->
+        <module>common-library</module>
 
     </modules>
 
